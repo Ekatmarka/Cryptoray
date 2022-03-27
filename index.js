@@ -1,0 +1,3 @@
+function block (letter, rate, used, father, code){
+this letter = letter
+this rate = rate
